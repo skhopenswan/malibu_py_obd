@@ -209,7 +209,7 @@ def main():
 
             load = safe_query_magnitude(connection, obd.commands.ENGINE_LOAD)
             fuel_status = safe_query_str(connection, obd.commands.FUEL_STATUS)
-            amb_temp = safe_query_magnitude(connection, obd.commands.AMB_AIR_TEMP)
+            amb_temp = safe_query_magnitude(connection, obd.commands.AMBIANT_AIR_TEMP)
 
             tft_val, tft_display = get_gm_tft(connection)
 

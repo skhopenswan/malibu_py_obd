@@ -46,7 +46,7 @@ PID_SPECS = {
     "TIMING": {"cmd": obd.commands.TIMING_ADVANCE, "unit": "°", "min": -60, "max": 60, "is_dynamic": True},
     "VOLTAGE": {"cmd": obd.commands.ELM_VOLTAGE, "unit": "V", "min": 8.0, "max": 18.0, "is_dynamic": False},
     "LOAD": {"cmd": obd.commands.ENGINE_LOAD, "unit": "%", "min": 0, "max": 100, "is_dynamic": True},
-    "AMB_TEMP": {"cmd": obd.commands.AMB_AIR_TEMP, "unit": "°C", "min": -40, "max": 60, "is_dynamic": False},
+    "AMB_TEMP": {"cmd": obd.commands.AMBIANT_AIR_TEMP, "unit": "°C", "min": -40, "max": 60, "is_dynamic": False},
 }
 
 def query_pid_value(connection, pid_key):
