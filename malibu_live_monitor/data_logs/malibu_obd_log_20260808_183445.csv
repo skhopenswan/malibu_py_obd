@@ -1,1 +1,0 @@
-﻿Timestamp,RPM(rpm),Speed(km/h),CoolantTemp(C),IntakeTemp(C),MAP(kPa),BaroPressure(kPa),BoostPressure(bar),ThrottlePos(%),STFT(%),LTFT(%),MAF(g/s),O2_B1S1(V),O2_B1S2(V),TimingAdvance(deg),Voltage(V),EngineLoad(%),FuelStatus,AmbAirTemp(C),TFT(C)
