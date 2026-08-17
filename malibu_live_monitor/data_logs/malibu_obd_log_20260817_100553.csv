@@ -1,0 +1,537 @@
+﻿Timestamp,RPM(rpm),Speed(km/h),CoolantTemp(C),IntakeTemp(C),MAP(kPa),BaroPressure(kPa),BoostPressure(bar),ThrottlePos(%),STFT(%),LTFT(%),MAF(g/s),O2_B1S1(V),O2_B1S2(V),TimingAdvance(deg),Voltage(V),EngineLoad(%),FuelStatus,AmbAirTemp(C),TFT(C)
+2026-08-17 10:05:57.279,679.25,0.0,96.0,38.0,16.0,99.0,-0.83,23.14,-3.12,-5.47,1.81,0.1,0.78,3.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:05:59.268,674.5,0.0,96.0,38.0,17.0,99.0,-0.82,22.75,0.78,-5.47,1.8,0.1,0.78,3.5,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:00.966,678.0,0.0,96.0,38.0,18.0,99.0,-0.81,22.75,-3.12,-5.47,1.8,0.7,0.78,1.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:02.662,683.25,0.0,96.0,38.0,17.0,99.0,-0.82,23.14,-3.12,-5.47,1.82,0.09,0.78,3.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:04.357,682.75,0.0,96.0,38.0,17.0,99.0,-0.82,23.14,1.56,-5.47,1.8,0.73,0.78,2.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:06.068,678.25,0.0,96.0,38.0,17.0,99.0,-0.82,23.14,-3.12,-5.47,1.8,0.1,0.78,3.5,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:07.792,683.25,0.0,96.0,38.0,18.0,99.0,-0.81,23.14,0.78,-5.47,1.82,0.09,0.78,1.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:09.497,682.0,0.0,96.0,38.0,17.0,99.0,-0.82,22.75,-2.34,-5.47,1.79,0.76,0.78,4.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:11.199,681.0,0.0,97.0,38.0,18.0,99.0,-0.81,22.75,-3.12,-5.47,1.8,0.09,0.78,3.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:12.899,679.25,0.0,97.0,38.0,17.0,99.0,-0.82,23.53,1.56,-5.47,1.88,0.17,0.78,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:14.591,674.25,0.0,97.0,38.0,17.0,99.0,-0.82,23.53,-3.12,-5.47,1.9,0.1,0.78,4.5,12.0,17.25,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:16.286,676.5,0.0,97.0,38.0,17.0,99.0,-0.82,23.53,0.78,-5.47,1.91,0.1,0.78,2.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:17.978,678.25,0.0,97.0,38.0,17.0,99.0,-0.82,23.53,-2.34,-5.47,1.89,0.74,0.77,5.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:19.672,683.0,0.0,97.0,38.0,17.0,99.0,-0.82,23.53,-3.12,-5.47,1.9,0.09,0.77,3.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:21.384,682.75,0.0,97.0,38.0,17.0,99.0,-0.82,23.53,1.56,-5.47,1.9,0.14,0.77,3.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:23.072,677.25,0.0,97.0,38.0,17.0,99.0,-0.82,23.53,-3.12,-5.47,1.89,0.1,0.77,3.5,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:24.767,675.25,0.0,97.0,38.0,18.0,99.0,-0.81,23.53,-3.12,-5.47,1.89,0.09,0.77,3.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:26.460,683.0,0.0,97.0,38.0,17.0,99.0,-0.82,23.53,-2.34,-5.47,1.88,0.77,0.77,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:28.167,684.25,0.0,97.0,38.0,18.0,99.0,-0.81,23.53,-3.12,-5.47,1.89,0.09,0.77,3.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:29.863,677.75,0.0,97.0,38.0,19.0,99.0,-0.8,23.53,1.56,-5.47,1.9,0.12,0.77,2.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:31.569,682.5,0.0,97.0,38.0,17.0,99.0,-0.82,23.53,-3.12,-5.47,1.88,0.1,0.77,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:33.279,685.25,0.0,97.0,38.0,19.0,99.0,-0.8,23.53,-3.12,-5.47,1.9,0.09,0.77,2.5,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:34.970,678.75,0.0,97.0,38.0,17.0,99.0,-0.82,23.53,-2.34,-5.47,1.9,0.76,0.77,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:36.664,679.5,0.0,97.0,38.0,18.0,99.0,-0.81,23.53,-3.12,-5.47,1.9,0.09,0.77,4.5,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:38.355,687.75,0.0,97.0,38.0,18.0,99.0,-0.81,23.53,1.56,-5.47,1.88,0.12,0.77,3.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:40.050,673.25,0.0,96.0,39.0,17.0,99.0,-0.82,23.53,-3.12,-5.47,1.89,0.1,0.77,3.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:41.756,684.0,0.0,97.0,39.0,18.0,99.0,-0.81,23.53,0.78,-5.47,1.9,0.09,0.77,2.0,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:43.450,681.5,0.0,96.0,39.0,18.0,99.0,-0.81,23.53,-1.56,-5.47,1.89,0.75,0.77,4.5,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:45.147,678.5,0.0,96.0,39.0,17.0,99.0,-0.82,23.53,-2.34,-5.47,1.88,0.1,0.77,4.0,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:46.851,687.75,0.0,96.0,39.0,18.0,99.0,-0.81,23.14,1.56,-5.47,1.86,0.1,0.77,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:48.563,679.5,0.0,95.0,39.0,17.0,99.0,-0.82,23.53,-2.34,-5.47,1.87,0.12,0.77,3.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:50.253,682.5,0.0,95.0,39.0,19.0,99.0,-0.8,23.53,-2.34,-5.47,1.88,0.09,0.77,3.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:51.977,681.75,0.0,95.0,39.0,18.0,99.0,-0.81,23.14,-1.56,-5.47,1.86,0.77,0.77,3.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:53.673,663.25,0.0,94.0,39.0,18.0,99.0,-0.81,23.53,-2.34,-5.47,1.89,0.09,0.77,3.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:55.367,680.25,0.0,94.0,39.0,18.0,99.0,-0.81,23.53,2.34,-5.47,1.88,0.12,0.77,4.5,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:57.058,678.75,0.0,94.0,39.0,18.0,99.0,-0.81,23.53,-2.34,-5.47,1.88,0.1,0.77,3.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:06:58.750,677.5,0.0,93.0,39.0,18.0,99.0,-0.81,23.53,1.56,-5.47,1.88,0.09,0.77,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:07:00.441,691.0,0.0,93.0,39.0,17.0,99.0,-0.82,23.14,-1.56,-5.47,1.81,0.76,0.77,2.5,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:07:02.137,681.25,0.0,93.0,39.0,16.0,99.0,-0.83,23.14,-2.34,-5.47,1.81,0.09,0.77,3.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:07:03.827,676.5,0.0,93.0,39.0,16.0,99.0,-0.83,22.35,2.34,-5.47,1.73,0.38,0.76,4.5,12.0,15.29,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,92
+2026-08-17 10:07:05.524,682.75,0.0,92.0,39.0,16.0,99.0,-0.83,22.75,-2.34,-5.47,1.75,0.09,0.76,7.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:07.215,676.25,0.0,92.0,40.0,16.0,99.0,-0.83,22.75,1.56,-5.47,1.76,0.09,0.74,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:08.907,674.0,0.0,92.0,40.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.77,0.6,0.72,5.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:10.605,685.25,0.0,92.0,40.0,17.0,99.0,-0.82,22.75,1.56,-5.47,1.79,0.08,0.7,1.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:12.308,670.5,0.0,91.0,40.0,16.0,99.0,-0.83,22.75,-1.56,-5.47,1.76,0.76,0.67,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:14.016,672.75,0.0,91.0,40.0,17.0,99.0,-0.82,22.75,1.56,-5.47,1.77,0.09,0.71,2.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:15.709,682.5,0.0,91.0,40.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.79,0.74,0.67,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:17.403,690.0,0.0,90.0,40.0,16.0,99.0,-0.83,22.75,1.56,-5.47,1.76,0.1,0.7,4.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:19.095,671.5,0.0,91.0,40.0,18.0,99.0,-0.81,22.75,-2.34,-5.47,1.78,0.1,0.68,7.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:20.788,689.5,0.0,90.0,40.0,17.0,99.0,-0.82,23.14,2.34,-5.47,1.78,0.12,0.68,4.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:22.481,687.25,0.0,90.0,40.0,16.0,99.0,-0.83,22.75,-2.34,-5.47,1.77,0.1,0.68,5.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:24.174,679.0,0.0,90.0,40.0,18.0,99.0,-0.81,22.75,2.34,-5.47,1.78,0.74,0.66,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:25.882,680.5,0.0,90.0,40.0,16.0,99.0,-0.83,22.75,-2.34,-5.47,1.79,0.09,0.68,3.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:27.576,673.75,0.0,90.0,41.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.78,0.77,0.65,2.5,11.9,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:29.268,683.25,0.0,90.0,41.0,16.0,99.0,-0.83,23.14,1.56,-5.47,1.8,0.12,0.67,1.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:30.961,685.75,0.0,90.0,41.0,16.0,99.0,-0.83,23.14,-2.34,-5.47,1.79,0.1,0.66,4.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:32.654,685.75,0.0,91.0,41.0,16.0,99.0,-0.83,22.75,-1.56,-5.47,1.77,0.74,0.66,4.5,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:34.366,682.25,0.0,91.0,41.0,18.0,99.0,-0.81,23.14,1.56,-5.47,1.8,0.09,0.68,3.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:36.074,668.5,0.0,91.0,41.0,16.0,99.0,-0.83,22.75,-1.56,-5.47,1.79,0.75,0.65,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:37.763,681.75,0.0,91.0,41.0,18.0,99.0,-0.81,22.75,2.34,-5.47,1.77,0.29,0.66,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:39.459,671.0,0.0,91.0,41.0,17.0,99.0,-0.82,23.14,1.56,-5.47,1.78,0.09,0.67,4.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:41.169,677.25,0.0,91.0,41.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.76,0.76,0.65,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:42.892,678.75,0.0,91.0,41.0,17.0,99.0,-0.82,22.75,2.34,-5.47,1.77,0.13,0.66,4.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:44.583,682.75,0.0,92.0,41.0,16.0,99.0,-0.83,23.14,1.56,-5.47,1.78,0.09,0.65,6.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:46.278,680.5,0.0,92.0,41.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.76,0.74,0.64,5.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:47.968,680.0,0.0,92.0,41.0,16.0,99.0,-0.83,22.75,2.34,-5.47,1.76,0.2,0.65,4.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:49.662,679.75,0.0,92.0,41.0,16.0,99.0,-0.83,23.14,1.56,-5.47,1.78,0.09,0.65,4.5,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:51.355,677.5,0.0,92.0,41.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.77,0.76,0.64,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:53.048,679.0,0.0,92.0,41.0,17.0,99.0,-0.82,22.75,2.34,-5.47,1.75,0.34,0.65,4.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:54.756,678.25,0.0,92.0,41.0,16.0,99.0,-0.83,22.75,1.56,-5.47,1.74,0.1,0.64,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:56.449,686.5,0.0,93.0,41.0,16.0,99.0,-0.83,22.75,-1.56,-5.47,1.74,0.35,0.66,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:58.158,685.25,0.0,93.0,41.0,16.0,99.0,-0.83,22.75,2.34,-5.47,1.75,0.17,0.65,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:07:59.852,680.0,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,1.56,-5.47,1.77,0.1,0.64,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:01.561,676.5,0.0,93.0,41.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.77,0.61,0.64,7.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:03.269,684.75,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,2.34,-5.47,1.76,0.7,0.65,0.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:04.975,674.25,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,1.56,-5.47,1.78,0.09,0.67,4.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:06.670,681.25,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,-2.34,-5.47,1.77,0.37,0.63,7.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:08.378,685.25,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.75,0.76,0.64,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:10.072,681.0,0.0,94.0,42.0,16.0,99.0,-0.83,22.75,1.56,-5.47,1.75,0.1,0.65,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:11.765,679.75,0.0,94.0,42.0,17.0,99.0,-0.82,23.14,1.56,-5.47,1.78,0.1,0.64,2.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:13.474,683.5,0.0,94.0,42.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.78,0.76,0.64,5.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:15.181,671.0,0.0,94.0,42.0,17.0,99.0,-0.82,22.75,2.34,-5.47,1.77,0.16,0.64,6.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:16.880,680.25,0.0,94.0,42.0,16.0,99.0,-0.83,22.75,1.56,-5.47,1.77,0.09,0.65,4.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:18.583,682.0,0.0,94.0,42.0,16.0,99.0,-0.83,22.75,-1.56,-5.47,1.76,0.76,0.63,7.0,11.9,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:20.294,683.25,0.0,94.0,42.0,18.0,99.0,-0.81,22.75,2.34,-5.47,1.76,0.15,0.64,4.5,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:22.017,679.0,0.0,94.0,42.0,18.0,99.0,-0.81,22.75,1.56,-5.47,1.77,0.09,0.66,6.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:23.717,690.5,0.0,94.0,42.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.75,0.77,0.64,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:25.434,686.5,0.0,94.0,42.0,16.0,99.0,-0.83,22.75,2.34,-5.47,,0.12,0.64,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:27.095,674.75,0.0,95.0,42.0,17.0,99.0,-0.82,22.75,2.34,-5.47,1.77,0.1,0.63,1.5,11.9,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:28.788,676.25,0.0,95.0,42.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.77,,0.65,4.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",,91
+2026-08-17 10:08:30.424,685.25,0.0,95.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.75,0.45,0.65,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:32.142,664.5,0.0,95.0,42.0,16.0,99.0,-0.83,22.75,-1.56,-5.47,1.77,0.1,0.67,4.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:33.869,693.0,0.0,95.0,42.0,17.0,99.0,-0.82,22.75,-0.78,,1.76,0.79,0.66,7.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:35.543,676.25,0.0,95.0,42.0,16.0,99.0,-0.83,22.75,2.34,-5.47,1.77,0.1,0.67,2.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:37.252,672.5,0.0,96.0,42.0,16.0,99.0,-0.83,22.75,-1.56,-5.47,1.77,0.66,0.67,1.5,11.9,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:38.946,681.0,,96.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.76,,0.67,1.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:40.573,683.5,0.0,96.0,42.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.75,0.1,0.67,8.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:42.283,689.25,0.0,96.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.73,0.68,0.67,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:43.971,676.0,0.0,96.0,42.0,18.0,99.0,-0.81,22.75,2.34,-5.47,1.77,0.1,0.67,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:45.683,672.0,0.0,96.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-5.47,1.74,0.76,0.65,5.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:47.380,680.0,0.0,96.0,42.0,18.0,99.0,-0.81,22.75,2.34,-5.47,1.77,0.12,0.66,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:49.070,678.0,0.0,96.0,42.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.76,0.1,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:50.794,685.75,0.0,96.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-5.47,1.74,0.77,0.65,4.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:52.504,685.0,0.0,96.0,42.0,17.0,99.0,-0.82,22.75,2.34,-5.47,1.76,0.1,0.66,1.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:54.195,672.25,0.0,96.0,42.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.76,0.31,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:55.889,683.0,0.0,97.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-5.47,1.74,0.77,0.66,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:57.596,672.75,0.0,97.0,42.0,17.0,99.0,-0.82,23.53,2.34,-5.47,1.85,0.09,0.67,4.0,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:08:59.292,676.0,0.0,97.0,42.0,18.0,99.0,-0.81,23.53,-0.78,-5.47,1.87,0.77,0.65,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:00.982,682.0,0.0,97.0,42.0,18.0,99.0,-0.81,23.53,2.34,-5.47,1.89,0.12,0.65,3.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:02.676,674.5,0.0,97.0,41.0,17.0,99.0,-0.82,23.53,-1.56,-5.47,1.89,0.62,0.66,5.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:04.386,683.5,0.0,97.0,41.0,18.0,99.0,-0.81,23.53,3.12,-5.47,1.87,0.74,0.66,3.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:06.081,674.25,0.0,97.0,41.0,17.0,99.0,-0.82,23.53,-1.56,-5.47,1.89,0.1,0.67,3.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:07.788,680.5,0.0,97.0,41.0,18.0,99.0,-0.81,23.53,-0.78,-5.47,1.87,0.79,0.67,4.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:09.481,683.5,0.0,97.0,41.0,17.0,99.0,-0.82,23.53,2.34,-5.47,1.87,0.09,0.67,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:11.172,678.25,0.0,97.0,41.0,19.0,99.0,-0.8,23.53,-0.78,-5.47,1.88,0.74,0.67,6.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:12.870,685.75,0.0,97.0,41.0,17.0,99.0,-0.82,23.53,2.34,-5.47,1.86,0.12,0.67,4.5,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:14.573,678.0,0.0,97.0,41.0,18.0,99.0,-0.81,23.53,-1.56,-5.47,1.89,0.11,0.67,4.0,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:16.267,688.5,0.0,97.0,41.0,18.0,99.0,-0.81,23.53,3.12,-5.47,1.88,0.72,0.67,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:17.959,674.5,0.0,97.0,41.0,17.0,99.0,-0.82,23.53,2.34,-5.47,1.88,0.09,0.67,3.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:19.654,681.5,0.0,97.0,41.0,18.0,99.0,-0.81,23.53,-0.78,-5.47,1.88,0.76,0.67,5.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:21.346,675.25,0.0,97.0,41.0,18.0,99.0,-0.81,23.53,2.34,-5.47,1.88,0.1,0.67,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:23.054,676.75,0.0,97.0,41.0,18.0,99.0,-0.81,23.53,-1.56,-5.47,1.87,0.17,0.67,3.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:24.764,677.25,0.0,97.0,41.0,18.0,99.0,-0.81,23.53,3.12,-5.47,1.86,0.71,0.67,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:26.453,680.0,0.0,96.0,41.0,18.0,99.0,-0.81,23.53,2.34,-5.47,1.87,0.1,0.67,4.0,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:28.150,686.0,0.0,96.0,41.0,18.0,99.0,-0.81,23.53,-0.78,-5.47,1.87,0.76,0.66,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:29.840,678.25,0.0,96.0,41.0,18.0,100.0,-0.82,23.53,2.34,-5.47,1.87,0.1,0.66,4.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:31.534,682.5,0.0,95.0,41.0,18.0,99.0,-0.81,23.53,-1.56,-5.47,1.88,0.12,0.66,4.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:33.226,678.75,0.0,95.0,41.0,18.0,99.0,-0.81,23.53,3.12,-5.47,1.87,0.71,0.66,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:34.920,672.0,0.0,95.0,41.0,19.0,99.0,-0.8,23.53,2.34,-5.47,1.9,0.09,0.66,3.5,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:36.612,676.5,0.0,94.0,41.0,17.0,99.0,-0.82,23.53,-0.78,-5.47,1.87,0.73,0.66,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:38.306,677.25,0.0,94.0,41.0,17.0,99.0,-0.82,23.53,3.12,-5.47,1.87,0.14,0.66,4.5,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:39.998,670.75,0.0,94.0,41.0,17.0,99.0,-0.82,23.53,-1.56,-5.47,1.89,0.1,0.66,4.5,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:41.691,687.75,0.0,93.0,41.0,17.0,99.0,-0.82,23.53,-0.78,-5.47,1.88,0.77,0.66,4.0,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:43.384,689.25,0.0,93.0,41.0,18.0,100.0,-0.82,22.75,2.34,-5.47,1.79,0.1,0.66,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:45.076,688.75,0.0,93.0,41.0,16.0,99.0,-0.83,22.75,-1.56,-5.47,1.77,0.1,0.66,5.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:46.771,686.75,0.0,93.0,41.0,17.0,99.0,-0.82,22.75,-0.78,-5.47,1.76,0.77,0.66,5.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:48.462,679.75,0.0,92.0,41.0,16.0,99.0,-0.83,23.14,2.34,-5.47,1.78,0.09,0.66,4.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:50.155,681.75,0.0,92.0,41.0,17.0,99.0,-0.82,22.75,-0.78,-5.47,1.77,0.74,0.65,4.5,11.9,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:51.847,690.0,0.0,92.0,41.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.77,0.15,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:53.538,672.25,0.0,92.0,41.0,16.0,99.0,-0.83,23.14,-1.56,-5.47,1.8,0.1,0.65,2.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:55.230,667.25,0.0,91.0,41.0,17.0,99.0,-0.82,22.75,-0.78,-5.47,1.79,0.77,0.65,1.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:56.925,683.75,0.0,91.0,41.0,17.0,100.0,-0.83,22.75,3.12,-5.47,1.77,0.14,0.65,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:09:58.616,681.25,0.0,91.0,41.0,16.0,99.0,-0.83,23.14,2.34,-5.47,1.78,0.1,0.65,2.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:10:00.313,676.75,0.0,91.0,41.0,17.0,99.0,-0.82,22.75,-0.78,-5.47,1.78,0.73,0.65,3.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,91
+2026-08-17 10:10:02.004,683.0,0.0,90.0,41.0,17.0,99.0,-0.82,23.14,3.12,-5.47,1.78,0.16,0.65,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:03.697,678.75,0.0,90.0,41.0,16.0,99.0,-0.83,23.14,-1.56,-5.47,1.83,0.1,0.65,6.5,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:05.389,684.5,0.0,90.0,41.0,16.0,99.0,-0.83,23.14,-0.78,-5.47,1.81,0.78,0.65,3.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:07.084,672.25,0.0,90.0,41.0,16.0,99.0,-0.83,22.75,2.34,-5.47,1.75,0.11,0.65,4.5,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:08.775,662.5,0.0,90.0,41.0,18.0,99.0,-0.81,22.75,-1.56,-5.47,1.78,0.1,0.65,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:10.486,682.25,0.0,90.0,41.0,16.0,99.0,-0.83,22.75,-0.78,-5.47,1.78,0.77,0.65,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:12.178,672.5,0.0,90.0,41.0,17.0,99.0,-0.82,22.75,2.34,-5.47,1.78,0.11,0.65,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:13.887,679.5,0.0,90.0,41.0,18.0,99.0,-0.81,23.14,-1.56,-5.47,1.79,0.1,0.65,4.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:15.593,684.25,0.0,90.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-5.47,1.77,0.77,0.65,6.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:17.302,689.5,0.0,90.0,41.0,17.0,99.0,-0.82,22.75,2.34,-5.47,1.78,0.1,0.65,8.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:18.996,681.75,0.0,91.0,41.0,17.0,99.0,-0.82,23.14,-1.56,-5.47,1.79,0.1,0.65,3.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:20.689,672.5,0.0,91.0,42.0,18.0,99.0,-0.81,22.75,-0.78,-5.47,1.77,0.77,0.65,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:22.384,684.25,0.0,91.0,41.0,17.0,99.0,-0.82,23.14,2.34,-5.47,1.77,0.1,0.65,4.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:24.077,682.5,0.0,91.0,41.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.78,0.68,0.65,2.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:25.769,677.75,0.0,91.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.77,0.26,0.65,1.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:27.461,665.25,0.0,91.0,41.0,16.0,99.0,-0.83,23.14,2.34,-5.47,1.79,0.09,0.65,2.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:29.186,684.0,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.77,0.66,0.64,5.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:30.874,683.0,0.0,91.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.77,0.66,0.65,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:32.569,678.5,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,2.34,-5.47,1.78,0.1,0.65,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:34.263,682.5,0.0,92.0,42.0,16.0,99.0,-0.83,22.75,-1.56,-5.47,1.78,0.64,0.65,5.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:35.957,689.75,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.77,0.65,0.65,2.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:37.650,668.0,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,2.34,-5.47,1.77,0.1,0.64,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:39.342,684.5,0.0,92.0,42.0,16.0,99.0,-0.83,23.14,-0.78,-5.47,1.79,0.38,0.64,4.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:41.052,690.25,0.0,92.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-5.47,1.76,0.74,0.64,7.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:42.743,684.75,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,2.34,-5.47,1.76,0.1,0.64,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:44.453,684.0,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,-1.56,-5.47,1.77,0.1,0.64,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:46.145,689.75,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-5.47,1.76,0.77,0.64,4.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:47.840,682.0,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,3.12,-5.47,1.77,0.12,0.64,6.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:49.530,674.75,0.0,93.0,42.0,16.0,99.0,-0.83,23.14,2.34,-5.47,1.78,0.09,0.64,5.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:51.222,679.0,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-5.47,1.76,0.75,0.64,2.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:52.918,682.25,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.76,0.53,0.64,2.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:54.640,681.75,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,2.34,-5.47,1.77,0.1,0.64,4.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:56.337,677.0,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,-1.56,-5.47,1.76,0.55,0.64,6.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:58.028,686.5,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,3.12,-5.47,1.75,0.46,0.64,6.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:10:59.720,686.0,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,3.12,-5.47,1.75,0.1,0.64,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:01.412,673.0,0.0,94.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-5.47,1.75,0.24,0.64,6.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:03.120,680.25,0.0,94.0,42.0,17.0,99.0,-0.82,22.75,0.0,-5.47,1.75,0.77,0.64,6.5,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:04.813,684.75,0.0,94.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.74,0.1,0.65,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:06.508,677.75,0.0,94.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-5.47,1.77,0.1,0.65,5.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:08.197,689.25,0.0,94.0,42.0,17.0,100.0,-0.83,22.75,0.0,-5.47,1.75,0.77,0.65,4.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:09.892,686.0,0.0,94.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.76,0.1,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:11.585,683.5,0.0,94.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-5.47,1.77,0.19,0.65,6.5,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:13.278,678.5,0.0,94.0,42.0,17.0,99.0,-0.82,22.75,0.0,-5.47,1.74,0.77,0.65,1.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:14.971,676.25,0.0,94.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.76,0.1,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:16.662,679.25,0.0,95.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-5.47,1.78,0.21,0.65,2.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:18.355,676.25,0.0,95.0,42.0,18.0,99.0,-0.81,22.75,0.0,-5.47,1.77,0.78,0.65,3.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:20.049,684.25,0.0,95.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.76,0.1,0.65,3.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:21.742,675.0,0.0,95.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-5.47,1.77,0.25,0.65,4.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:23.434,683.0,0.0,95.0,42.0,17.0,99.0,-0.82,22.75,0.0,-5.47,1.77,0.77,0.65,4.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:25.129,668.5,0.0,95.0,42.0,16.0,100.0,-0.84,22.75,3.12,-5.47,1.77,0.1,0.65,1.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:26.822,677.5,0.0,95.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-5.47,1.76,0.62,0.65,7.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:28.533,687.25,0.0,95.0,42.0,18.0,99.0,-0.81,22.75,3.91,-5.47,1.75,0.74,0.65,6.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:30.242,681.5,0.0,95.0,42.0,18.0,99.0,-0.81,22.75,3.12,-5.47,1.77,0.09,0.65,2.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:31.931,679.0,0.0,95.0,42.0,18.0,99.0,-0.81,22.75,-0.78,-5.47,1.78,0.72,0.65,4.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:33.643,680.75,0.0,96.0,42.0,17.0,99.0,-0.82,22.75,3.91,-5.47,1.77,0.67,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:35.347,677.25,0.0,96.0,42.0,17.0,99.0,-0.82,22.75,3.12,-5.47,1.77,0.09,0.65,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:37.040,673.0,0.0,96.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-5.47,1.77,0.72,0.65,7.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:38.734,694.5,0.0,96.0,42.0,17.0,99.0,-0.82,22.75,3.91,-5.47,1.76,0.61,0.65,2.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:40.426,666.0,0.0,96.0,42.0,18.0,99.0,-0.81,22.75,3.12,-5.47,1.78,0.1,0.65,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:42.123,678.0,0.0,96.0,42.0,16.0,100.0,-0.84,22.75,0.0,-5.47,1.77,0.73,0.65,6.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:43.817,686.0,0.0,96.0,42.0,16.0,99.0,-0.83,22.75,3.91,-5.47,1.76,0.71,0.65,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:45.520,675.0,0.0,96.0,42.0,16.0,99.0,-0.83,22.75,3.12,-5.47,1.77,0.09,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:47.214,681.25,0.0,96.0,42.0,18.0,99.0,-0.81,22.75,-0.78,-5.47,1.79,0.4,0.65,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:48.907,683.5,0.0,96.0,42.0,16.0,99.0,-0.83,22.75,0.0,-5.47,1.77,0.76,0.65,3.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:50.599,689.75,0.0,97.0,42.0,16.0,99.0,-0.83,22.75,3.12,-5.47,1.78,0.1,0.65,6.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:52.294,684.5,0.0,96.0,42.0,18.0,99.0,-0.81,23.14,-0.78,-5.47,1.83,0.25,0.64,8.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:53.984,680.5,0.0,97.0,42.0,18.0,99.0,-0.81,23.53,3.91,-5.47,1.87,0.71,0.65,7.0,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:55.713,680.25,0.0,97.0,42.0,18.0,99.0,-0.81,23.53,3.12,-5.47,1.9,0.1,0.65,4.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:57.404,678.5,0.0,97.0,42.0,17.0,99.0,-0.82,23.53,-0.78,-5.47,1.88,0.52,0.64,5.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:11:59.096,675.5,0.0,97.0,42.0,18.0,99.0,-0.81,23.53,0.0,-5.47,1.87,0.74,0.64,4.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:00.788,684.75,0.0,97.0,42.0,18.0,99.0,-0.81,23.53,3.12,-5.47,1.87,0.1,0.64,3.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:02.480,680.25,0.0,97.0,42.0,17.0,99.0,-0.82,23.53,-0.78,-5.47,1.9,0.12,0.64,5.5,12.1,17.25,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:04.189,681.5,0.0,97.0,42.0,17.0,99.0,-0.82,23.14,0.0,-5.47,1.86,0.75,0.64,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:05.883,678.25,0.0,97.0,42.0,18.0,99.0,-0.81,23.14,3.12,-5.47,1.86,0.1,0.65,2.5,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:07.574,678.75,0.0,97.0,42.0,18.0,99.0,-0.81,23.53,-0.78,-5.47,1.87,0.18,0.64,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:09.267,682.0,0.0,97.0,42.0,17.0,99.0,-0.82,23.53,0.0,-5.47,1.86,0.74,0.64,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:10.978,682.5,0.0,97.0,42.0,17.0,99.0,-0.82,23.14,3.12,-5.47,1.86,0.1,0.64,4.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:12.685,674.5,0.0,97.0,42.0,19.0,99.0,-0.8,23.53,-0.78,-5.47,1.88,0.11,0.64,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:14.380,680.0,0.0,97.0,42.0,18.0,99.0,-0.81,23.14,0.0,-5.47,1.86,0.76,0.64,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:16.088,676.25,0.0,97.0,42.0,18.0,99.0,-0.81,23.14,3.91,-5.47,1.85,0.12,0.64,4.0,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:17.778,677.5,0.0,97.0,42.0,17.0,99.0,-0.82,23.53,3.12,-5.47,1.87,0.1,0.64,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:19.475,684.25,0.0,96.0,42.0,18.0,99.0,-0.81,23.14,0.0,-5.47,1.84,0.76,0.64,4.5,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:21.166,680.25,0.0,96.0,42.0,18.0,99.0,-0.81,23.53,3.91,-5.47,1.86,0.11,0.64,3.0,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:22.866,677.5,0.0,96.0,42.0,17.0,99.0,-0.82,23.14,-0.78,-5.47,1.87,0.1,0.64,2.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:24.550,678.5,0.0,96.0,42.0,18.0,99.0,-0.81,23.14,0.0,-5.47,1.85,0.76,0.64,5.0,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:26.312,682.25,0.0,95.0,42.0,18.0,99.0,-0.81,23.14,3.91,-5.47,1.86,0.12,0.64,5.0,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:28.016,681.25,0.0,95.0,42.0,17.0,99.0,-0.82,23.53,3.12,-5.47,1.86,0.1,0.64,4.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:29.711,679.5,0.0,94.0,42.0,17.0,99.0,-0.82,23.14,0.78,-5.47,1.85,0.76,0.64,3.5,11.9,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:31.419,679.75,0.0,94.0,42.0,17.0,99.0,-0.82,23.14,3.91,-5.47,1.86,0.11,0.64,3.0,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:33.110,678.0,0.0,94.0,42.0,18.0,99.0,-0.81,23.53,0.0,-5.47,1.87,0.41,0.64,4.0,12.1,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:34.819,679.75,0.0,94.0,42.0,18.0,99.0,-0.81,23.14,0.78,-5.47,1.87,0.77,0.64,3.5,12.0,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:36.513,684.25,0.0,93.0,42.0,18.0,99.0,-0.81,23.14,3.91,-5.47,1.81,0.1,0.64,2.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:38.207,685.0,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,0.0,-4.69,1.79,0.7,0.64,3.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:39.914,682.75,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,0.0,-4.69,1.78,0.79,0.65,3.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:41.626,679.5,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.77,0.1,0.65,3.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:43.315,682.5,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.78,0.6,0.65,2.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:45.008,683.0,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,0.0,-4.69,1.77,0.79,0.65,5.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:46.706,678.0,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.78,0.1,0.65,5.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:48.409,680.25,0.0,91.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.78,0.31,0.65,2.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:50.104,676.25,0.0,91.0,42.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.78,0.79,0.65,3.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:51.796,687.25,0.0,91.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.78,0.11,0.65,2.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:53.490,675.75,0.0,91.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.78,0.11,0.65,6.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:55.196,684.0,0.0,90.0,42.0,18.0,99.0,-0.81,22.75,0.0,-4.69,1.77,0.78,0.65,3.5,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:56.892,683.25,0.0,90.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.79,0.14,0.65,4.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:12:58.582,685.0,0.0,90.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-4.69,1.79,0.15,0.65,5.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:13:00.292,687.0,0.0,90.0,42.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.79,0.78,0.65,9.0,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:13:01.986,684.75,0.0,90.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.77,0.1,0.65,4.0,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:13:03.677,680.75,0.0,90.0,42.0,18.0,99.0,-0.81,22.75,-0.78,-4.69,1.78,0.23,0.65,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:13:05.371,683.25,0.0,90.0,42.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.78,0.79,0.65,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:13:07.063,679.25,0.0,90.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.8,0.1,0.65,1.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:13:08.756,675.0,0.0,91.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-4.69,1.8,0.71,0.65,2.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:13:10.448,685.0,0.0,90.0,42.0,16.0,99.0,-0.83,22.35,0.0,-4.69,1.74,0.76,0.65,6.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:13:12.158,674.0,0.0,91.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-4.69,1.76,0.1,0.65,2.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:13:13.852,675.25,0.0,91.0,42.0,17.0,99.0,-0.82,22.75,0.0,-4.69,1.76,0.77,0.65,2.0,11.9,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:13:15.543,682.75,0.0,91.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.76,0.12,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:17.238,676.75,0.0,91.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.78,0.11,0.65,4.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:18.944,677.0,0.0,91.0,42.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.77,0.77,0.65,6.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:20.653,688.5,0.0,91.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.79,0.11,0.65,4.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:22.348,679.5,0.0,91.0,42.0,16.0,99.0,-0.83,22.75,-0.78,-4.69,1.78,0.16,0.65,4.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:24.042,682.0,0.0,92.0,42.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.77,0.79,0.65,1.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:25.734,677.25,0.0,92.0,42.0,16.0,99.0,-0.83,22.75,3.12,-4.69,1.78,0.1,0.65,2.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:27.442,677.0,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.79,0.64,0.65,4.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:29.133,685.25,0.0,92.0,42.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.76,0.77,0.65,6.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:30.826,680.0,0.0,92.0,42.0,16.0,99.0,-0.83,22.75,3.12,-4.69,1.77,0.09,0.65,4.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:32.521,678.75,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.76,0.72,0.65,4.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:34.214,682.0,0.0,92.0,42.0,16.0,99.0,-0.83,22.35,3.91,-4.69,1.74,0.63,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:35.911,674.25,0.0,92.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.77,0.09,0.65,2.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:37.612,676.25,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.74,0.75,0.65,6.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:39.306,681.25,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,3.91,-4.69,1.75,0.17,0.65,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:41.000,673.0,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.77,0.1,0.65,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:42.693,685.75,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.75,0.77,0.65,4.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:44.385,689.0,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.74,0.1,0.65,2.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:46.081,678.0,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.75,0.12,0.65,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:47.796,682.5,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.74,0.78,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:49.495,678.5,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,3.12,-4.69,1.75,0.09,0.65,1.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:51.188,675.75,0.0,93.0,42.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.75,0.5,0.65,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:52.883,683.25,0.0,93.0,42.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.75,0.75,0.65,7.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:54.572,680.0,0.0,94.0,42.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.76,0.09,0.65,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:56.266,677.75,0.0,94.0,41.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.77,0.73,0.65,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:57.960,688.5,0.0,94.0,41.0,16.0,99.0,-0.83,22.75,3.91,-4.69,1.76,0.55,0.65,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:13:59.653,679.75,0.0,94.0,41.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.75,0.09,0.65,2.0,11.9,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:01.379,674.0,0.0,94.0,41.0,18.0,99.0,-0.81,22.75,0.0,-4.69,1.76,0.76,0.65,4.5,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:03.071,681.25,0.0,94.0,41.0,16.0,99.0,-0.83,22.75,3.91,-4.69,1.75,0.14,0.65,1.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:04.761,675.25,0.0,94.0,41.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.76,0.1,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:06.458,686.5,0.0,94.0,41.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.75,0.76,0.65,6.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:08.162,686.0,0.0,94.0,41.0,17.0,99.0,-0.82,22.75,3.91,-4.69,1.75,0.14,0.65,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:09.875,677.25,0.0,94.0,41.0,16.0,99.0,-0.83,22.75,-0.78,-4.69,1.77,0.1,0.65,7.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:11.566,683.0,0.0,95.0,41.0,17.0,99.0,-0.82,22.75,0.0,-4.69,1.77,0.77,0.65,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:13.258,675.5,0.0,95.0,41.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.75,0.11,0.65,1.5,11.9,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:14.954,678.5,0.0,95.0,41.0,18.0,99.0,-0.81,22.75,-0.78,-4.69,1.77,0.12,0.65,4.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:16.662,676.5,0.0,95.0,41.0,16.0,99.0,-0.83,22.35,0.0,-4.69,1.75,0.77,0.65,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:18.353,684.5,0.0,95.0,41.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.74,0.1,0.65,4.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:20.063,680.25,0.0,95.0,41.0,16.0,99.0,-0.83,22.75,-0.78,-4.69,1.77,0.1,0.65,5.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:21.755,688.5,0.0,95.0,41.0,17.0,99.0,-0.82,22.75,0.0,-4.69,1.75,0.77,0.65,3.5,11.9,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:23.463,681.5,0.0,95.0,41.0,16.0,99.0,-0.83,22.75,3.12,-4.69,1.76,0.11,0.65,2.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:25.157,671.25,0.0,96.0,41.0,17.0,99.0,-0.82,22.75,-0.78,-4.69,1.77,0.1,0.65,2.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:26.849,681.25,0.0,96.0,41.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.75,0.76,0.65,6.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:28.549,681.75,0.0,95.0,41.0,18.0,99.0,-0.81,22.75,3.91,-4.69,1.75,0.12,0.65,1.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:30.249,677.25,0.0,96.0,41.0,16.0,99.0,-0.83,22.75,-0.78,-4.69,1.76,0.1,0.65,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:31.944,684.5,0.0,96.0,41.0,17.0,99.0,-0.82,22.75,0.0,-4.69,1.75,0.76,0.65,5.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:33.635,682.25,0.0,96.0,41.0,16.0,99.0,-0.83,22.75,3.91,-4.69,1.75,0.12,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:35.345,667.25,0.0,96.0,41.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.76,0.1,0.65,3.5,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:37.038,676.25,0.0,96.0,41.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.75,0.75,0.65,2.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:38.730,689.5,0.0,96.0,41.0,16.0,99.0,-0.83,22.75,3.91,-4.69,1.76,0.15,0.65,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:40.423,657.75,0.0,96.0,41.0,16.0,99.0,-0.83,22.75,3.12,-4.69,1.77,0.09,0.64,2.0,11.9,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:42.115,674.0,0.0,96.0,41.0,17.0,99.0,-0.82,22.75,0.0,-4.69,1.76,0.74,0.65,5.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:43.811,681.5,0.0,96.0,41.0,17.0,99.0,-0.82,22.75,3.91,-4.69,1.75,0.21,0.64,1.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:45.518,671.0,0.0,96.0,41.0,17.0,99.0,-0.82,22.75,3.12,-4.69,1.77,0.09,0.64,2.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:47.211,679.5,0.0,96.0,41.0,16.0,99.0,-0.83,22.75,0.0,-4.69,1.76,0.74,0.64,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:48.903,686.25,0.0,97.0,41.0,17.0,99.0,-0.82,22.75,3.91,-4.69,1.76,0.32,0.64,3.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:50.595,671.25,0.0,97.0,41.0,16.0,99.0,-0.83,22.75,3.12,-4.69,1.78,0.1,0.64,2.5,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:52.290,669.0,0.0,96.0,41.0,18.0,99.0,-0.81,22.75,0.0,-4.69,1.78,0.75,0.64,3.0,11.9,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:53.982,685.25,0.0,97.0,41.0,18.0,99.0,-0.81,22.75,3.91,-4.69,1.79,0.16,0.65,3.0,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:55.675,671.25,0.0,97.0,41.0,17.0,99.0,-0.82,23.14,3.12,-4.69,1.84,0.09,0.65,0.0,11.8,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,89
+2026-08-17 10:14:57.370,667.0,0.0,97.0,41.0,22.0,99.0,-0.77,26.27,0.78,-3.91,2.52,0.71,0.65,2.5,12.0,22.75,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:14:59.078,674.75,0.0,97.0,41.0,22.0,99.0,-0.77,26.27,1.56,-3.91,2.53,0.74,0.65,1.5,12.0,22.75,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:00.768,676.75,0.0,97.0,40.0,22.0,99.0,-0.77,26.27,1.56,-3.12,2.52,0.74,0.64,5.5,12.1,22.75,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:02.461,692.0,0.0,97.0,40.0,23.0,99.0,-0.76,26.27,2.34,-2.34,2.53,0.73,0.64,4.0,11.9,22.75,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:04.156,692.75,0.0,97.0,40.0,22.0,99.0,-0.77,26.27,5.47,-1.56,2.54,0.74,0.64,0.5,12.0,22.75,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:05.865,689.0,1.0,97.0,40.0,22.0,99.0,-0.77,26.27,4.69,-1.56,2.58,0.1,0.65,-1.0,12.1,22.75,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:07.557,689.5,1.0,97.0,40.0,22.0,99.0,-0.77,26.67,3.91,-1.56,2.64,0.1,0.65,1.0,12.0,23.14,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:09.248,697.75,1.0,97.0,40.0,22.0,99.0,-0.77,26.67,0.0,-1.56,2.66,0.51,0.65,1.5,12.0,23.53,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:10.945,697.75,1.0,97.0,40.0,22.0,99.0,-0.77,26.67,0.0,-1.56,2.65,0.74,0.65,0.0,12.0,23.53,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:12.650,700.5,1.0,97.0,40.0,24.0,99.0,-0.75,26.67,0.0,-1.56,2.65,0.76,0.66,0.5,12.0,23.92,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:14.346,691.25,0.0,97.0,40.0,24.0,99.0,-0.75,26.67,3.12,-1.56,2.65,0.2,0.66,0.0,12.0,23.53,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:16.038,683.75,0.0,97.0,40.0,23.0,99.0,-0.76,26.67,3.12,-1.56,2.65,0.1,0.66,0.5,12.0,23.53,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:17.747,686.25,0.0,97.0,40.0,22.0,99.0,-0.77,26.27,2.34,-1.56,2.59,0.09,0.66,-1.0,12.0,23.53,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:19.437,683.0,0.0,97.0,40.0,22.0,99.0,-0.77,26.27,-1.56,-1.56,2.54,0.1,0.65,2.0,12.0,18.43,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:21.161,696.5,0.0,97.0,40.0,18.0,99.0,-0.81,23.92,-1.56,-1.56,1.98,0.73,0.65,5.0,12.0,17.65,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:22.853,696.0,0.0,97.0,40.0,18.0,99.0,-0.81,23.92,2.34,-1.56,1.84,0.12,0.65,4.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:24.550,691.25,0.0,97.0,40.0,18.0,99.0,-0.81,23.14,3.91,-1.56,1.75,0.11,0.65,5.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:26.259,678.75,0.0,96.0,40.0,17.0,99.0,-0.82,23.14,0.78,-0.78,1.78,0.64,0.65,5.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:27.965,679.5,0.0,96.0,40.0,18.0,99.0,-0.81,23.14,4.69,-0.78,1.81,0.72,0.65,3.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,90
+2026-08-17 10:15:29.662,476.25,0.0,96.0,41.0,24.0,99.0,-0.75,16.86,0.0,0.0,1.06,0.1,0.66,14.0,11.9,0.0,N/A,29.0,90
+2026-08-17 10:15:31.369,0.0,0.0,95.0,41.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.07,0.67,14.0,11.9,0.0,N/A,29.0,84
+2026-08-17 10:15:33.093,0.0,0.0,95.0,42.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.05,0.68,14.0,11.8,0.0,N/A,29.0,82
+2026-08-17 10:15:34.801,0.0,0.0,95.0,42.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.04,0.69,14.0,11.9,0.0,N/A,29.0,83
+2026-08-17 10:15:36.512,0.0,0.0,95.0,43.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.04,0.7,14.0,11.9,0.0,N/A,29.0,84
+2026-08-17 10:15:38.217,0.0,0.0,94.0,43.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.04,0.71,14.0,11.9,0.0,N/A,29.0,85
+2026-08-17 10:15:39.926,0.0,0.0,94.0,44.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.04,0.72,14.0,11.9,0.0,N/A,29.0,86
+2026-08-17 10:15:41.634,0.0,0.0,94.0,44.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.04,0.74,14.0,11.9,0.0,N/A,29.0,86
+2026-08-17 10:15:43.328,0.0,0.0,94.0,44.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.04,0.76,14.0,11.8,0.0,N/A,29.0,87
+2026-08-17 10:15:45.024,0.0,0.0,94.0,45.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.04,0.77,14.0,11.8,0.0,N/A,29.0,87
+2026-08-17 10:15:46.730,0.0,0.0,94.0,45.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.04,0.78,14.0,11.9,0.0,N/A,29.0,87
+2026-08-17 10:15:48.424,0.0,0.0,94.0,45.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.05,0.8,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:15:50.130,0.0,0.0,93.0,45.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.06,0.81,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:15:51.842,0.0,0.0,93.0,46.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.06,0.83,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:15:53.533,0.0,0.0,93.0,46.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.07,0.85,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:15:55.243,0.0,0.0,93.0,46.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.08,0.88,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:15:56.950,0.0,0.0,93.0,46.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.09,0.91,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:15:58.646,0.0,0.0,93.0,46.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.1,0.94,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:00.354,0.0,0.0,93.0,46.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.11,,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:02.061,0.0,0.0,93.0,46.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.12,1.0,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:03.789,0.0,0.0,93.0,47.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.14,1.04,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:05.495,0.0,0.0,93.0,47.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.16,1.08,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:07.204,0.0,0.0,93.0,47.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.18,1.13,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:08.895,0.0,0.0,94.0,47.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.2,1.18,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:10.592,0.0,0.0,93.0,47.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.22,1.22,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:12.282,0.0,0.0,93.0,47.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.24,1.26,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:13.991,0.0,0.0,94.0,47.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.27,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:15.686,0.0,0.0,94.0,47.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.3,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:17.394,0.0,0.0,94.0,47.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.32,1.27,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:19.085,0.0,0.0,94.0,47.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.35,1.27,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:20.779,0.0,0.0,94.0,47.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.38,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:22.488,0.0,0.0,94.0,47.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.41,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:24.196,0.0,0.0,94.0,47.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.45,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:25.903,0.0,0.0,94.0,47.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.47,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:27.596,0.0,0.0,94.0,47.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.51,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:29.306,0.0,0.0,94.0,47.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.54,1.27,,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:31.002,0.0,0.0,94.0,48.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.57,1.27,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:32.815,0.0,0.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.61,1.27,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:34.544,0.0,0.0,94.0,48.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.65,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:36.237,0.0,0.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.68,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:37.946,0.0,0.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.71,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:39.639,0.0,0.0,94.0,48.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.75,1.27,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:41.369,0.0,0.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.79,1.27,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:43.089,0.0,0.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.82,1.27,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:44.781,0.0,0.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.85,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:46.474,0.0,0.0,94.0,48.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,0.89,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:48.185,0.0,0.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.92,1.27,14.0,11.8,0.0,N/A,29.0,88
+2026-08-17 10:16:49.894,0.0,0.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.95,1.27,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:51.585,0.0,0.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,0.98,1.27,14.0,11.9,0.0,N/A,29.0,88
+2026-08-17 10:16:53.294,0.0,255.0,94.0,48.0,58.0,99.0,-0.41,32.16,0.0,0.0,0.0,1.01,1.27,14.0,11.9,0.0,N/A,29.0,95
+2026-08-17 10:16:54.985,0.0,255.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,1.03,1.27,14.0,11.9,0.0,N/A,29.0,95
+2026-08-17 10:16:56.681,0.0,255.0,94.0,48.0,59.0,99.0,-0.4,32.16,0.0,0.0,0.0,1.06,1.27,14.0,11.9,0.0,N/A,29.0,95
+2026-08-17 10:16:58.373,0.0,255.0,94.0,48.0,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:17:02.363,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:17:07.233,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:17:12.107,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:17:16.975,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:17:21.847,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:17:26.719,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:17:31.590,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:17:36.457,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:17:41.329,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:17:46.202,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:17:51.071,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:17:55.940,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:18:00.824,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:18:05.699,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:18:10.569,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:18:15.439,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:18:20.312,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:18:25.181,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:18:30.051,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:18:34.921,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:18:39.793,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:18:44.664,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:18:49.534,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:18:54.405,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:18:59.276,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:19:04.149,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:19:09.018,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:19:13.889,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:19:18.758,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:19:23.632,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:19:28.501,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:19:33.376,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:19:38.242,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:19:43.111,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:19:47.983,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:19:52.854,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:19:57.724,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:20:02.597,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:20:07.468,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:20:12.337,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:20:17.209,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:20:22.078,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:20:26.951,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:20:31.820,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:20:36.695,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:20:41.561,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:20:46.431,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:20:51.302,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:20:56.173,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:21:01.043,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:21:05.914,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:21:10.784,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:21:15.659,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:21:20.533,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:21:25.397,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:21:30.268,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:21:35.139,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:21:40.010,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:21:44.882,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:21:49.753,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:21:54.620,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:21:59.494,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:22:04.370,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:22:09.239,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:22:14.107,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:22:18.978,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:22:23.848,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:22:28.721,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:22:33.592,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:22:38.462,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:22:43.335,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:22:48.202,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:22:53.076,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:22:57.945,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:23:02.814,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:23:07.685,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:23:12.558,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:23:17.428,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:23:22.297,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:23:27.170,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:23:32.040,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:23:36.909,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:23:41.781,,,,,,,,,,,,,,,12.1,,N/A,,
+2026-08-17 10:23:46.654,,,,,,,,,,,,,,,12.0,,N/A,,
+2026-08-17 10:23:51.524,0.0,0.0,91.0,45.0,59.0,99.0,-0.4,32.16,-100.0,-4.69,0.0,1.27,1.27,0.0,12.0,0.0,N/A,29.0,86
+2026-08-17 10:23:53.232,0.0,0.0,91.0,45.0,59.0,99.0,-0.4,32.16,-100.0,-4.69,0.0,1.27,1.27,0.0,12.0,0.0,N/A,29.0,86
+2026-08-17 10:23:54.955,0.0,0.0,91.0,45.0,59.0,99.0,-0.4,32.16,-100.0,-4.69,0.0,1.27,1.27,0.0,12.0,0.0,N/A,29.0,86
+2026-08-17 10:23:56.664,0.0,0.0,91.0,45.0,59.0,99.0,-0.4,32.16,-100.0,-4.69,0.0,1.27,1.27,0.0,11.9,0.0,N/A,29.0,86
+2026-08-17 10:23:58.377,0.0,0.0,90.0,45.0,59.0,99.0,-0.4,32.16,-100.0,-4.69,0.0,1.27,1.27,0.0,11.8,0.0,N/A,29.0,86
+2026-08-17 10:24:00.097,0.0,0.0,91.0,45.0,59.0,99.0,-0.4,32.16,-100.0,-4.69,0.0,1.27,1.27,0.0,11.9,0.0,N/A,29.0,86
+2026-08-17 10:24:01.790,287.5,0.0,91.0,45.0,39.0,99.0,-0.6,29.02,0.0,0.0,4.29,1.27,1.27,-1.5,11.6,22.75,Open loop due to insufficient engine temperature/,29.0,86
+2026-08-17 10:24:03.482,1100.0,0.0,91.0,44.0,17.0,99.0,-0.82,27.45,0.0,0.0,3.14,1.27,1.27,-2.5,11.7,18.82,Open loop due to insufficient engine temperature/,29.0,86
+2026-08-17 10:24:05.176,884.75,0.0,91.0,43.0,16.0,99.0,-0.83,25.88,0.0,0.0,2.47,1.27,1.27,4.0,12.1,20.39,Open loop due to insufficient engine temperature/,29.0,86
+2026-08-17 10:24:06.905,737.25,0.0,91.0,42.0,21.0,99.0,-0.78,26.67,0.0,0.0,2.85,1.22,1.27,5.5,13.0,25.1,Open loop due to insufficient engine temperature/,29.0,85
+2026-08-17 10:24:08.594,696.5,0.0,91.0,41.0,25.0,99.0,-0.74,27.45,-1.56,0.0,3.06,1.03,1.27,-3.5,14.0,27.45,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:10.305,694.5,0.0,90.0,41.0,22.0,99.0,-0.77,26.67,-2.34,0.0,2.85,0.98,1.18,-3.0,14.0,25.49,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:11.995,673.75,0.0,90.0,41.0,22.0,99.0,-0.77,26.67,-7.03,0.0,2.82,0.72,0.99,-3.0,14.0,25.1,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,84
+2026-08-17 10:24:13.690,692.0,0.0,89.0,41.0,23.0,99.0,-0.76,26.27,-3.12,0.0,2.65,0.89,0.9,1.0,14.0,23.92,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,84
+2026-08-17 10:24:15.384,676.5,0.0,89.0,40.0,22.0,99.0,-0.77,26.27,-1.56,-0.78,2.61,0.2,0.86,-0.5,14.0,23.14,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,84
+2026-08-17 10:24:17.091,689.0,0.0,88.0,40.0,21.0,99.0,-0.78,26.27,-5.47,-0.78,2.62,0.73,0.83,-0.5,13.8,23.53,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,84
+2026-08-17 10:24:18.782,679.5,0.0,87.0,40.0,21.0,99.0,-0.78,25.88,-3.91,-0.78,2.47,0.84,0.8,3.0,13.9,22.35,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,84
+2026-08-17 10:24:20.491,673.0,0.0,87.0,40.0,20.0,99.0,-0.79,25.88,-0.78,-1.56,2.47,0.16,0.78,0.5,13.8,21.96,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,84
+2026-08-17 10:24:22.187,680.25,0.0,87.0,40.0,21.0,99.0,-0.78,25.88,-1.56,-1.56,2.47,0.15,0.77,0.5,13.8,21.57,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,84
+2026-08-17 10:24:23.895,688.5,0.0,86.0,40.0,21.0,99.0,-0.78,25.49,-3.12,-1.56,2.36,0.83,0.76,2.0,13.7,21.18,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,84
+2026-08-17 10:24:25.605,683.0,0.0,86.0,40.0,19.0,99.0,-0.8,25.49,0.0,-1.56,2.35,0.33,0.76,-2.0,13.6,21.18,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:27.310,677.5,0.0,86.0,40.0,20.0,99.0,-0.79,25.49,-0.78,-1.56,2.33,0.17,0.77,2.0,13.6,20.78,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:29.004,677.75,0.0,86.0,40.0,19.0,99.0,-0.8,25.49,-0.78,-1.56,2.32,0.15,0.77,-0.5,13.6,20.39,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:30.697,682.0,0.0,85.0,40.0,20.0,99.0,-0.79,25.49,-3.91,-1.56,2.3,0.26,0.76,4.0,13.6,20.78,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:32.391,670.25,0.0,86.0,40.0,19.0,99.0,-0.8,25.49,-3.12,-1.56,2.3,0.81,0.76,1.5,13.6,20.78,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:34.099,684.0,0.0,86.0,40.0,19.0,99.0,-0.8,25.1,-3.12,-1.56,2.28,0.82,0.76,3.5,13.5,20.39,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:35.792,687.25,0.0,86.0,39.0,19.0,99.0,-0.8,25.1,0.0,-1.56,2.25,0.72,0.76,3.5,13.5,20.0,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:37.486,681.25,0.0,86.0,39.0,20.0,99.0,-0.79,25.1,-0.78,-1.56,2.25,0.16,0.77,5.0,13.6,20.0,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:39.176,681.5,0.0,86.0,39.0,19.0,99.0,-0.8,25.1,-0.78,-1.56,2.24,0.14,0.76,1.0,13.5,20.0,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:40.871,674.5,0.0,86.0,39.0,19.0,99.0,-0.8,25.88,-3.91,-1.56,2.46,0.15,0.75,-5.0,13.3,22.75,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:42.562,692.25,0.0,86.0,39.0,20.0,99.0,-0.79,25.88,-3.12,-1.56,2.46,0.79,0.73,-11.0,12.8,20.78,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:44.255,677.0,0.0,86.0,39.0,17.0,99.0,-0.82,23.14,-3.91,-1.56,1.86,0.81,0.73,-1.5,12.7,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:45.964,669.5,0.0,86.0,39.0,17.0,99.0,-0.82,22.75,-6.25,-1.56,1.8,0.34,0.79,10.5,12.6,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:47.660,693.5,0.0,86.0,39.0,16.0,99.0,-0.83,22.75,-5.47,-1.56,1.8,0.78,0.75,-1.0,12.5,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:49.366,688.25,0.0,87.0,39.0,16.0,99.0,-0.83,23.14,-1.56,-1.56,1.81,0.13,0.75,6.0,12.4,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:51.059,646.75,0.0,87.0,39.0,20.0,99.0,-0.79,25.49,-0.78,-1.56,2.35,0.09,0.74,-11.0,12.4,20.0,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:52.767,675.75,0.0,87.0,39.0,18.0,99.0,-0.81,23.14,-3.91,-1.56,1.87,0.72,0.78,-1.0,12.3,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:54.461,687.5,0.0,87.0,39.0,16.0,99.0,-0.83,22.75,-3.12,-1.56,1.78,0.8,0.76,4.5,12.2,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:56.153,685.25,0.0,87.0,39.0,17.0,99.0,-0.82,22.75,-0.78,-1.56,1.77,0.28,0.77,-1.5,12.2,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:57.846,667.5,0.0,87.0,39.0,17.0,99.0,-0.82,22.75,-0.78,-1.56,1.77,0.11,0.78,1.0,12.1,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:24:59.536,697.25,0.0,87.0,39.0,16.0,99.0,-0.83,22.75,-3.91,-1.56,1.77,0.74,0.75,11.5,12.1,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:01.247,684.75,0.0,87.0,39.0,18.0,99.0,-0.81,24.31,-3.12,-1.56,2.01,0.74,0.76,-5.0,12.1,17.65,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:02.939,686.5,0.0,87.0,39.0,16.0,99.0,-0.83,22.75,-0.78,-1.56,1.79,0.11,0.77,4.5,12.0,15.69,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:04.633,671.25,0.0,87.0,39.0,17.0,99.0,-0.82,22.75,-3.91,-1.56,1.79,0.66,0.78,-0.5,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:06.326,692.75,0.0,87.0,39.0,16.0,99.0,-0.83,23.14,-3.12,-1.56,1.87,0.77,0.76,2.5,12.0,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:08.019,687.75,0.0,87.0,39.0,17.0,99.0,-0.82,23.14,0.0,-1.56,1.84,0.7,0.77,8.0,12.0,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:09.711,675.5,0.0,88.0,39.0,16.0,99.0,-0.83,23.14,-0.78,-1.56,1.84,0.1,0.77,4.0,12.1,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:11.405,682.75,0.0,88.0,39.0,17.0,99.0,-0.82,23.14,-3.91,-1.56,1.83,0.64,0.75,4.5,12.1,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:13.112,673.0,0.0,88.0,39.0,17.0,99.0,-0.82,23.14,-3.12,-1.56,1.84,0.77,0.75,4.5,12.1,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:14.805,682.5,0.0,88.0,39.0,18.0,99.0,-0.81,23.14,0.0,-1.56,1.86,0.14,0.76,2.5,12.2,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:16.500,677.75,0.0,88.0,39.0,16.0,99.0,-0.83,23.14,-0.78,-1.56,1.84,0.1,0.76,2.0,12.2,16.08,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:18.194,676.0,0.0,88.0,39.0,17.0,99.0,-0.82,23.14,-3.91,-1.56,1.84,0.7,0.75,7.0,12.2,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:19.887,685.5,0.0,88.0,39.0,17.0,99.0,-0.82,23.14,-3.12,-1.56,1.85,0.76,0.76,4.0,12.2,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:21.577,679.5,0.0,88.0,39.0,16.0,99.0,-0.83,23.14,-0.78,-1.56,1.84,0.12,0.77,4.0,12.2,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:23.286,678.75,0.0,88.0,39.0,17.0,99.0,-0.82,23.14,-0.78,-1.56,1.87,0.1,0.76,3.5,12.2,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:24.980,682.75,0.0,89.0,39.0,16.0,99.0,-0.83,23.14,-3.12,-1.56,1.86,0.77,0.74,1.5,12.2,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:26.688,680.5,0.0,88.0,39.0,17.0,99.0,-0.82,23.14,0.0,-1.56,1.86,0.14,0.76,3.5,12.1,16.47,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:28.397,678.75,0.0,89.0,39.0,17.0,99.0,-0.82,23.14,-0.78,-1.56,1.87,0.1,0.75,3.0,12.2,16.86,"Closed loop, using oxygen sensor feedback to determine fuel mix/",29.0,85
+2026-08-17 10:25:30.091,441.0,0.0,89.0,39.0,23.0,99.0,-0.76,26.67,0.0,-1.56,0.0,0.4,0.76,7.0,12.0,0.0,N/A,29.0,85
+2026-08-17 10:25:31.783,0.0,0.0,89.0,40.0,59.0,99.0,-0.4,32.16,0.0,-1.56,0.0,0.34,0.77,7.0,12.0,0.0,N/A,29.0,85
+2026-08-17 10:25:33.474,0.0,0.0,89.0,40.0,59.0,99.0,-0.4,32.16,0.0,-1.56,0.0,0.75,0.78,7.0,12.0,0.0,N/A,29.0,85
+2026-08-17 10:25:35.167,0.0,0.0,89.0,41.0,59.0,99.0,-0.4,32.16,0.0,-1.56,0.0,0.78,0.79,7.0,12.0,0.0,N/A,29.0,85
