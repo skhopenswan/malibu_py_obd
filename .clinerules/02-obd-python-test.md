@@ -1,0 +1,7 @@
+本项目是通过低价的elm usb线，连接windows电脑使用的脚本工程。
+
+malibu_live_monitor\real_time_monitor.py是我当前主要用的记录实机数据的脚本，其他脚本是测试可用性并辅助该脚本编写的；
+
+生成的记录数据在malibu_live_monitor\data_logs下；
+
+malibu_live_monitor\AI_agent_analysis文件夹是用来给ai agent分析数据及记录ai分析历史的文件存放位置；
